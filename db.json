@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "nahu",
+      "complted": false,
+      "id": 2
+    },
+    {
+      "title": "impressive",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
