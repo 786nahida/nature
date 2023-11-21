@@ -1,12 +1,7 @@
 {
   "posts": [
     {
-      "title": "nahu",
-      "complted": false,
-      "id": 2
-    },
-    {
-      "title": "impressive",
+      "title": "code",
       "id": 3
     }
   ],
